@@ -12,5 +12,5 @@ This is basically a small application that I made in weekend.
 ![alt text](https://github.com/kavyanshpandey/Asset-Management-System/blob/master/asmpic2.png)
 ![alt text](https://github.com/kavyanshpandey/Asset-Management-System/blob/master/asmpic3.png)
 
-Feel free to contribute 🚀👍❤️
+Feel free to contribute 🚀👍😊❤️
 
